@@ -10,9 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: InsideCorner_3
+  m_Name: CornerThick
   m_EditorClassIdentifier: 
-  m_Sprite: {fileID: 21300000, guid: a7e2b10150acc5c479561a6f679a3176, type: 3}
+  m_Sprite: {fileID: 21300000, guid: cc206eede0fbf4749a8397274dbdb464, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Transform:
     e00: 1
